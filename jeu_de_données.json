@@ -1,0 +1,138 @@
+[
+    {
+      "title": "Réduire la consommation d'énergie",
+      "description": "Éteindre les lumières lorsqu'elles ne sont pas utilisées et utiliser des ampoules à faible consommation d'énergie.",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Recycler les déchets",
+      "description": "Séparer les déchets recyclables du reste des déchets et les déposer dans les bacs de recyclage appropriés.",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Utiliser des transports en commun",
+      "description": "Utiliser les transports en commun comme le bus ou le train au lieu de conduire sa propre voiture.",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Acheter des produits locaux",
+      "description": "Acheter des produits alimentaires et des biens de consommation auprès de producteurs locaux pour réduire l'empreinte carbone.",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Réduire la consommation d'eau",
+      "description": "Installer des dispositifs à faible débit d'eau et réparer les fuites pour réduire la consommation d'eau.",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Utiliser des énergies renouvelables",
+      "description": "Investir dans des sources d'énergie renouvelable comme l'énergie solaire ou éolienne pour alimenter sa maison.",
+      "difficulty": "hard"
+    },
+    {
+      "title": "Planter des arbres",
+      "description": "Participer à des activités de reboisement ou planter des arbres dans son jardin pour lutter contre la déforestation.",
+      "difficulty": "hard"
+    },
+    {
+        "title": "Réduire la consommation de viande",
+        "description": "Diminuez votre consommation de viande en optant pour des repas végétariens ou végétaliens quelques fois par semaine.",
+        "difficulty": "medium"
+      },
+      {
+        "title": "Utiliser des sources d'énergie renouvelables",
+        "description": "Investissez dans des sources d'énergie renouvelables comme les panneaux solaires ou les éoliennes pour réduire votre dépendance aux combustibles fossiles.",
+        "difficulty": "hard"
+      },
+      {
+        "title": "Éviter les produits jetables",
+        "description": "Évitez d'utiliser des produits jetables comme les gobelets en plastique ou les assiettes en carton en optant pour des alternatives réutilisables.",
+        "difficulty": "medium"
+      },
+      {
+        "title": "Opter pour le covoiturage",
+        "description": "Partagez votre trajet avec d'autres personnes en utilisant le covoiturage pour réduire le nombre de véhicules sur la route et les émissions de CO2.",
+        "difficulty": "medium"
+      },
+      {
+        "title": "Planter des arbres",
+        "description": "Participez à des projets de reboisement ou plantez des arbres dans votre jardin pour absorber le dioxyde de carbone de l'atmosphère.",
+        "difficulty": "easy"
+      },
+      {
+        "title": "Utiliser des produits ménagers écologiques",
+        "description": "Remplacez vos produits ménagers traditionnels par des alternatives écologiques pour réduire la pollution de l'air et de l'eau.",
+        "difficulty": "medium"
+      },
+      {
+        "title": "Réduire la consommation d'emballages",
+        "description": "Achetez en vrac et utilisez des sacs réutilisables pour réduire la quantité d'emballages jetables.",
+        "difficulty": "easy"
+      },
+      {
+        "title": "Installer un système de récupération des eaux de pluie",
+        "description": "Installez un système de collecte des eaux de pluie pour arroser votre jardin ou laver votre voiture de manière plus éco-responsable.",
+        "difficulty": "hard"
+      },
+      {
+        "title": "Utiliser des ampoules basse consommation",
+        "description": "Remplacez vos ampoules traditionnelles par des ampoules basse consommation ou des LED pour économiser de l'énergie.",
+        "difficulty": "easy"
+      },
+      {
+        "title": "Fabriquer ses propres produits de beauté",
+        "description": "Fabriquez vos propres produits de beauté et d'hygiène à partir d'ingrédients naturels pour éviter les produits chimiques nocifs pour l'environnement.",
+        "difficulty": "medium"
+      },
+      {
+        "title": "Privilégier les douches aux bains",
+        "description": "Optez pour des douches plutôt que des bains pour économiser de l'eau.",
+        "difficulty": "easy"
+      },
+      {
+        "title": "Réduire la consommation de papier",
+        "description": "Utilisez des documents numériques autant que possible et recyclez le papier que vous utilisez.",
+        "difficulty": "medium"
+      },
+      {
+        "title": "Réduire la consommation de viande rouge",
+        "description": "Diminuez votre consommation de viande rouge, qui a un impact environnemental plus élevé que les autres sources de protéines.",
+        "difficulty": "medium"
+      },
+      {
+        "title": "Utiliser des sacs en tissu",
+        "description": "Utilisez des sacs réutilisables en tissu lorsque vous faites vos courses pour réduire l'utilisation de sacs en plastique.",
+        "difficulty": "easy"
+      },
+      {
+        "title": "Éteindre les appareils en veille",
+        "description": "Éteignez complètement les appareils électroniques au lieu de les laisser en veille pour économiser de l'énergie.",
+        "difficulty": "easy"
+      },
+      {
+        "title": "Utiliser des transports actifs",
+        "description": "Privilégiez la marche, le vélo ou d'autres moyens de transport actifs pour les petits déplacements au lieu de prendre la voiture.",
+        "difficulty": "medium"
+      },
+      {
+        "title": "Acheter des produits en vrac",
+        "description": "Optez pour l'achat de produits en vrac pour réduire les emballages et favoriser une consommation plus responsable.",
+        "difficulty": "easy"
+      },
+      {
+        "title": "Composter les déchets organiques",
+        "description": "Mettez en place un système de compostage pour transformer vos déchets alimentaires en engrais naturel pour votre jardin.",
+        "difficulty": "medium"
+      },
+      {
+        "title": "Utiliser des alternatives durables",
+        "description": "Remplacez les produits jetables par des alternatives durables et réutilisables pour réduire votre empreinte écologique.",
+        "difficulty": "medium"
+      },
+      {
+        "title": "Pratiquer le minimalisme",
+        "description": "Adoptez un mode de vie minimaliste en réduisant vos possessions matérielles et en favorisant la simplicité.",
+        "difficulty": "hard"
+      }
+  ]
+  
