@@ -31,8 +31,5 @@ Pour toutes les requêtes, il vous faudra utiliser un token, sauf pour demander 
 - Pour modifier un défi : `PUT /challenges/:id` (authentification requise).
 - Pour supprimer un défi : `DELETE /challenges/:id` (authentification requise).
 
-## Auteur
-Kylian VINEL & Dorian ROCHETTE
-
 ## Licence
 Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
